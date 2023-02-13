@@ -1,2 +1,1 @@
-#!/bin/bash
-cat Hello, World /n | fmt | pr | 1pr
+cat Hello, World
